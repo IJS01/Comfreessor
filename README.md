@@ -26,7 +26,7 @@ Comfreessor is built and maintained by a single independent developer. If this f
 
 ---
 
-## Why choose Comfreessor as your Mac Media Compressor?
+## Why choose Comfreessor as your Mac Media Optimizer?
 
 - ⚡️ **Insanely Fast** — Hardware-accelerated video encoding optimized for Apple Silicon (M1/M2/M3) and Intel Macs.
 - 🔒 **100% Private & Secure** — Fully local batch processing. Your files never touch the cloud or leave your machine.
