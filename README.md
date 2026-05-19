@@ -16,7 +16,7 @@ Comfreessor is built and maintained by a single independent developer. If this f
 
 ---
 
-## 🚀 Get started in 30 seconds
+## 🚀 Get started in seconds
 
 1. **[Download Comfreessor for Mac (.dmg)](LINK_PENDING)** *(Note: Replace this with your actual Release link once published)*
 2. Open the `.dmg` file and drag **Comfreessor** to your *Applications* folder.
