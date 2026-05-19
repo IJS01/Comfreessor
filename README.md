@@ -1,6 +1,6 @@
 # Comfreessor
 
-**The fastest, simplest, most complete image and video compressor for Mac. 100% free, forever.**
+**The simplest, fastest, most powerful and complete image and video compressor for Mac. 100% full and free, forever.**
 
 No login. No trial. No tiers. No subscriptions. No ads.
 
