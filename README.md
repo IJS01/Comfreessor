@@ -20,7 +20,7 @@ Comfreessor is built and maintained by a single independent developer. If this f
 
 1. **[Download Comfreessor for Mac (.dmg)](LINK_PENDING)** *(Note: Replace this with your actual Release link once published)*
 2. Open the `.dmg` file and drag **Comfreessor** to your *Applications* folder.
-3. Launch it, drag and drop the files or folders you want to compress, pick your compression level, and hit **Start**.
+3. Launch it, select or drag and drop the files or folders you want to compress, pick your compression level, and hit **Start**.
 
 *Files are optimized in place — no duplicates, no clutter. The original is only overwritten when the optimised version is actually smaller, so you never end up with a worse file than you started with.*
 
